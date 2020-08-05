@@ -6,6 +6,9 @@
 
 [Final Year Project](https://github.com/Liamplussquared/final-year-project)
 
+I was responsible for creating infrastcture that would aid in story generation. My work focuses on identifying & measuring relations between words, sorting a list of words in a manner that would constitute a "good" story, and generating meaningful sentences between words.
+
+<img src = "https://github.com/Liamplussquared/final-year-project/blob/master/designDiagram.PNG?raw=true"/>
 
 ---
 [Productivity Tracker](https://github.com/Liamplussquared/productivity-tracker)
@@ -27,7 +30,6 @@ HackerRank focuses on competetive programming challenges & allows developers to 
 
 I am currently placed 13th in my former University's leaderboard.
 - [Solutions to Kattis questions](https://github.com/Liamplussquared/kattis-questions)
-- [Project 5 Title](http://example.com/)
 
 ---
 
