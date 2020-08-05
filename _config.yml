@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Liam O' Brien
+logo: "https://media-exp1.licdn.com/dms/image/C4D03AQGBiUGygLLYDQ/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=qcXWOK3RtbARFc5Vrv-lmePBjlhyn9HMmGrQCCOg_eI" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm a recent Computer Science graduate (1:1) looking for full time employment as a Software Developer/Engineer or related fields.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/liam-o-brien-668432158/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
