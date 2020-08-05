@@ -10,12 +10,18 @@ I was responsible for creating infrastcture that would aid in story generation. 
 
 <img src = "https://github.com/Liamplussquared/final-year-project/blob/master/designDiagram.PNG?raw=true"/>
 
+I wrote my software using Python and worked with packages such as *ConceptNet*, *WordNet* and *SimpleNLG*.
+
 ---
 [Productivity Tracker](https://github.com/Liamplussquared/productivity-tracker)
+
+I created a simple stopwatch GUI that allowed for work periods to be recorded and labeled. The GUI displays the amount of time spent working daily and weekly. Additional features to present graphs/illustrations of past work are planned.
 
 
 ---
 [RSS Feed Aggregator](https://github.com/Liamplussquared/flask-rss-feed)
+
+This project focused on aggregating worldwide news articles from various RSS feeds.
 
 
 ---
