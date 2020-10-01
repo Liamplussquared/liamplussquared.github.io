@@ -38,7 +38,7 @@ This project focused on aggregating worldwide news articles from various RSS fee
 
 ---
 
-### Competetive Programming
+## Competetive Programming
 
 - [HackerRank Profile](https://www.hackerrank.com/liam_obrien_2017)
 
