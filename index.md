@@ -1,30 +1,40 @@
-## Portfolio
+# Portfolio
+
+## Personal Projects
 
 ---
 
-### Personal Projects
-
-[Final Year Project](https://github.com/Liamplussquared/final-year-project)
+### [Final Year Project](https://github.com/Liamplussquared/final-year-project)
 
 <a href = "images/thesis.pdf" download> Have a look at my thesis! </a>
 
 I was responsible for creating infrastcture that would aid in story generation. My work focuses on identifying & measuring relations between words, sorting a list of words in a manner that would constitute a "good" story, and generating meaningful sentences between words.
 
-<img src = "https://github.com/Liamplussquared/final-year-project/blob/master/designDiagram.PNG?raw=true"/>
-
-I wrote my software using Python and worked with packages such as *ConceptNet*, *WordNet* and *SimpleNLG*.
+**Python**, **Natural Language Processing**, **ConceptNet**, **WordNet**
 
 ---
-[Productivity Tracker](https://github.com/Liamplussquared/productivity-tracker)
+
+### [Twitter Haiku Bot](https://github.com/Liamplussquared/twitter-bot)
+
+A bot capable of replying to mentions with genereated haikus! 
+
+**Python**, **tweepy**, **Twitter API**, **bot**
+
+---
+
+### [Productivity Tracker](https://github.com/Liamplussquared/productivity-tracker)
 
 I created a simple stopwatch GUI that allowed for work periods to be recorded and labeled. The GUI displays the amount of time spent working daily and weekly. Additional features to present graphs/illustrations of past work are planned.
 
+**Python**, **tkinter**
 
 ---
-[RSS Feed Aggregator](https://github.com/Liamplussquared/flask-rss-feed)
+
+### [RSS Feed Aggregator](https://github.com/Liamplussquared/flask-rss-feed)
 
 This project focused on aggregating worldwide news articles from various RSS feeds.
 
+**Python**, **Flask**, **RSS**, **web scraping**
 
 ---
 
@@ -41,8 +51,4 @@ I am currently placed 13th in my former University's leaderboard.
 
 ---
 
-
-
-
----
 
